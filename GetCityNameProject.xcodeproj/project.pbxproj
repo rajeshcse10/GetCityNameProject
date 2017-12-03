@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					18B2534E1FD3C92A007C8BBE = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = YF9ES6Q873;
 						ProvisioningStyle = Automatic;
 					};
 					18B253671FD3C92A007C8BBE = {
@@ -426,6 +427,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = YF9ES6Q873;
 				INFOPLIST_FILE = GetCityNameProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = SRBD.GetCityNameProject;
@@ -437,6 +439,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = YF9ES6Q873;
 				INFOPLIST_FILE = GetCityNameProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = SRBD.GetCityNameProject;
@@ -509,6 +512,7 @@
 				18B2537E1FD3C92A007C8BBE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18B2537F1FD3C92A007C8BBE /* Build configuration list for PBXNativeTarget "GetCityNameProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +521,7 @@
 				18B253811FD3C92A007C8BBE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18B253821FD3C92A007C8BBE /* Build configuration list for PBXNativeTarget "GetCityNameProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +530,7 @@
 				18B253841FD3C92A007C8BBE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
